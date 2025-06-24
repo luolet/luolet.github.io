@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #0366d6;
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #023e8a;
+  text-decoration: underline;
+}
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
